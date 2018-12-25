@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jetty-rc-repacked-5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jetty-repacked-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/mx4j-tools-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-api-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-chrome-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-edge-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-firefox-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-htmlunit-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-ie-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-java-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-leg-rc-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-remote-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-safari-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-server-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/selenium-support-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/snakeyaml-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/selenium 2.52/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Automation/workspace/MMPerformance/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
